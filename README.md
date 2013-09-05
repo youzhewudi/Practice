@@ -1,4 +1,2 @@
-myrepo
-======
 
-This is just a test
+This repo is used for practice
